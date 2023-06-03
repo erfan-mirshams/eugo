@@ -43,3 +43,7 @@ footer {
 #nextart,#prevart {
 	max-width: 33% ;
 }
+
+.div-rtl{
+	direction: rtl;
+}
