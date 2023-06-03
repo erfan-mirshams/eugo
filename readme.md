@@ -1,4 +1,4 @@
-# Luke's Hugo Theme
+# Erfan's Hugo Theme
 
 A simple Hugo theme I plan on using for my personal website, [Based.Cooking](https://based.cooking) and [LandChad.net](https://landchad.net).
 
@@ -7,7 +7,7 @@ A simple Hugo theme I plan on using for my personal website, [Based.Cooking](htt
 ```sh
 hugo new site new-site
 cd new-site
-git clone https://github.com/lukesmithxyz/lugo themes/lugo
+git clone https://github.com/erfan-mirshams/eugo themes/eugo
 echo "theme = 'lugo'" >> config.toml
 cp themes/lugo/static/style.css static/
 ```
